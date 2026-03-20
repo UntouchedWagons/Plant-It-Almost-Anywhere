@@ -1,0 +1,9 @@
+{
+  "name": "Plant-It-Almost-Anywhere",
+  "version": "1.0.0",
+  "title": "Plant It (Almost) Anywhere",
+  "author": "UntouchedWagons",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.2", "space-age"],
+  "description": "You can now plant Yumako and Jellynut almost anywhere on Gleba"
+}
