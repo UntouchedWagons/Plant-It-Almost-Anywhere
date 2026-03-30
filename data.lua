@@ -31,9 +31,9 @@ data.raw.plant["yumako-tree"].autoplace.tile_restriction =
 data.raw.plant["jellystem"].autoplace.probability_expression = "0.005";
 data.raw.plant["jellystem"].autoplace.tile_restriction =
 {
-  "natural-yumako-soil", 
-  "artificial-yumako-soil", 
-  "overgrowth-yumako-soil",
+  "natural-jellynut-soil", 
+  "artificial-jellynut-soil", 
+  "overgrowth-jellynut-soil",
   "midland-cracked-lichen",
   "midland-cracked-lichen-dark",
   "midland-cracked-lichen-dull",
